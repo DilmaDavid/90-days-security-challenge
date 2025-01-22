@@ -1,10 +1,7 @@
-# My Secutity Challenge-Hands-On Challenge
-Welcome to the **90 Days Security Challenge**, where you'll explore real-world cybersecurity scenarios using **Wazuh**, a powerful open-source security platform for threat detection, compliance, and incident response.
-# 90 Days Security Challenge with Wazuh
-
+# My Secutity Challenge Hands-On Challenge
 Welcome to the **90 Days Security Challenge**, where you'll explore real-world cybersecurity scenarios using **Wazuh**, a powerful open-source security platform for threat detection, compliance, and incident response.
 
-## Who is this for?
+### Who is this for?
 - Security Analysts (SOC Level 1, 2, 3)
 - IT Professionals looking to enhance security skills
 - Cybersecurity enthusiasts
